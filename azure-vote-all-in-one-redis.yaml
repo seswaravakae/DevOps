@@ -1,0 +1,3 @@
+containers:
+- name: azure-vote-front
+  image: azuredocs/azure-vote-front
